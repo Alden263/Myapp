@@ -1,0 +1,6 @@
+{
+  "name": "Kế Hoạch Nền Tảng Ôn Tập AI",
+  "description": "Công cụ xác định ý tưởng và khung sản phẩm nền tảng ôn tập cá nhân bằng AI dành cho học sinh (Buổi 1).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
